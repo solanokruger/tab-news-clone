@@ -1,1 +1,1 @@
-# crypto-currency-news
+# tab-news-clone
